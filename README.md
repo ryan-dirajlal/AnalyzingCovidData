@@ -1,1 +1,3 @@
 # AnalyzingCovidData
+
+COVID-19 has undoubtedly changed the course of all our lives, but it has definitely impacted some communities more than others. To truly understand the effects the pandemic has caused, I accessed publicly available data regarding COVID-19 deaths and vaccinations. I cleaned this data in Microsoft Excel, and I loaded it into a PostgreSQL database to query with SQL. Using joins, aggregate functions, and CTEs, I was able to better understand the inequalities related to the pandemic. I discovered that countries that experienced the worst deaths were often the latest to receive vaccinations.
